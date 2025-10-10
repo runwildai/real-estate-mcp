@@ -189,12 +189,1722 @@
         "date": "2024-02-12",
         "time": "1:00 PM - 4:00 PM"
       }
+    },
+    {
+      "id": "PROP006",
+      "address": "2345 Main St #304",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Condo",
+      "style": "Urban Loft",
+      "year_built": 2016,
+      "price": 425000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1400,
+      "lot_size": "N/A",
+      "description": "Modern urban loft in the heart of downtown. High ceilings, exposed brick, and floor-to-ceiling windows. Walk to restaurants, shops, and entertainment.",
+      "features": [
+        "High ceilings",
+        "Exposed brick",
+        "Floor-to-ceiling windows",
+        "Secured parking",
+        "Rooftop terrace",
+        "Walkable location"
+      ],
+      "images": [
+        "https://example.com/prop006_front.jpg",
+        "https://example.com/prop006_living.jpg",
+        "https://example.com/prop006_terrace.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-03",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-15",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP007",
+      "address": "6543 Oak Grove Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Craftsman",
+      "year_built": 2017,
+      "price": 520000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_feet": 2100,
+      "lot_size": "0.18 acres",
+      "description": "Charming Craftsman home with covered front porch. Features include built-in cabinetry, cozy fireplace, and beautifully landscaped backyard.",
+      "features": [
+        "Covered front porch",
+        "Built-in cabinetry",
+        "Gas fireplace",
+        "Landscaped yard",
+        "Energy efficient",
+        "Quiet neighborhood"
+      ],
+      "images": [
+        "https://example.com/prop007_front.jpg",
+        "https://example.com/prop007_living.jpg",
+        "https://example.com/prop007_backyard.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-04",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP008",
+      "address": "8765 Hillside Ct",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Modern Ranch",
+      "year_built": 2021,
+      "price": 780000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3200,
+      "lot_size": "0.35 acres",
+      "description": "Stunning modern ranch with panoramic city and mountain views. Open concept living with chef's kitchen, home office, and luxurious primary suite.",
+      "features": [
+        "Panoramic views",
+        "Chef's kitchen",
+        "Home office",
+        "Primary suite",
+        "3-car garage",
+        "Solar ready"
+      ],
+      "images": [
+        "https://example.com/prop008_front.jpg",
+        "https://example.com/prop008_kitchen.jpg",
+        "https://example.com/prop008_view.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-05",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-17",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP009",
+      "address": "4321 Magnolia Ln #12",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Townhouse",
+      "style": "Spanish",
+      "year_built": 2014,
+      "price": 410000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_feet": 1650,
+      "lot_size": "0.06 acres",
+      "description": "Charming Spanish-style townhouse in gated community. Features include tile roof, arched doorways, and private courtyard. Low HOA fees.",
+      "features": [
+        "Gated community",
+        "Tile roof",
+        "Arched doorways",
+        "Private courtyard",
+        "2-car garage",
+        "Low HOA"
+      ],
+      "images": [
+        "https://example.com/prop009_front.jpg",
+        "https://example.com/prop009_courtyard.jpg",
+        "https://example.com/prop009_living.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-06",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP010",
+      "address": "9876 Sierra Vista Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "California Ranch",
+      "year_built": 2019,
+      "price": 595000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_feet": 2600,
+      "lot_size": "0.22 acres",
+      "description": "Spacious California ranch with open floor plan and indoor-outdoor living. Features include gourmet kitchen, bonus room, and covered patio perfect for entertaining.",
+      "features": [
+        "Open floor plan",
+        "Gourmet kitchen",
+        "Bonus room",
+        "Covered patio",
+        "RV parking",
+        "Great schools"
+      ],
+      "images": [
+        "https://example.com/prop010_front.jpg",
+        "https://example.com/prop010_kitchen.jpg",
+        "https://example.com/prop010_patio.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-07",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-18",
+        "time": "12:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "id": "PROP011",
+      "address": "1111 Orange St #205",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Condo",
+      "style": "Modern",
+      "year_built": 2022,
+      "price": 380000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "square_feet": 850,
+      "lot_size": "N/A",
+      "description": "Brand new modern condo in downtown's newest building. Features premium finishes, in-unit laundry, and rooftop amenities. Perfect for urban professionals.",
+      "features": [
+        "Brand new",
+        "Premium finishes",
+        "In-unit laundry",
+        "Rooftop amenities",
+        "Gym access",
+        "Secure parking"
+      ],
+      "images": [
+        "https://example.com/prop011_front.jpg",
+        "https://example.com/prop011_living.jpg",
+        "https://example.com/prop011_rooftop.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-08",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-19",
+        "time": "10:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": "PROP012",
+      "address": "7234 Forest Glen Way",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Traditional",
+      "year_built": 2020,
+      "price": 890000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "square_feet": 3800,
+      "lot_size": "0.4 acres",
+      "description": "Elegant traditional estate on premium lot. Features include formal living and dining, spacious bedrooms, game room, and resort-style backyard with pool and spa.",
+      "features": [
+        "Formal living/dining",
+        "Game room",
+        "Pool and spa",
+        "Outdoor kitchen",
+        "Premium lot",
+        "Cul-de-sac location"
+      ],
+      "images": [
+        "https://example.com/prop012_front.jpg",
+        "https://example.com/prop012_pool.jpg",
+        "https://example.com/prop012_gameroom.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-09",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-20",
+        "time": "2:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "id": "PROP013",
+      "address": "1500 Vista Del Sol",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Luxury Home",
+      "style": "Spanish Colonial",
+      "year_built": 2023,
+      "price": 1400000,
+      "bedrooms": 6,
+      "bathrooms": 5.5,
+      "square_feet": 5200,
+      "lot_size": "0.75 acres",
+      "description": "Magnificent Spanish Colonial masterpiece with sweeping valley views. Features include grand entry, gourmet kitchen, theater room, wine cellar, and casita.",
+      "features": [
+        "Valley views",
+        "Grand entry",
+        "Theater room",
+        "Wine cellar",
+        "Guest casita",
+        "Infinity pool"
+      ],
+      "images": [
+        "https://example.com/prop013_front.jpg",
+        "https://example.com/prop013_theater.jpg",
+        "https://example.com/prop013_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-10",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-21",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP014",
+      "address": "5555 Palm Ave",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Single Family Home",
+      "style": "Mid-Century Modern",
+      "year_built": 1962,
+      "price": 475000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1900,
+      "lot_size": "0.16 acres",
+      "description": "Beautifully updated mid-century modern home with original character intact. Features include vaulted ceilings, terrazzo floors, and wall of windows overlooking private yard.",
+      "features": [
+        "Vaulted ceilings",
+        "Terrazzo floors",
+        "Wall of windows",
+        "Updated kitchen",
+        "Original details",
+        "Private yard"
+      ],
+      "images": [
+        "https://example.com/prop014_front.jpg",
+        "https://example.com/prop014_living.jpg",
+        "https://example.com/prop014_kitchen.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-11",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP015",
+      "address": "8888 Rancho Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Ranch",
+      "style": "Contemporary Ranch",
+      "year_built": 2018,
+      "price": 725000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3100,
+      "lot_size": "1.2 acres",
+      "description": "Contemporary ranch on over an acre of usable land. Features include open concept living, luxurious master retreat, and room for horses/animals. Bring your toys!",
+      "features": [
+        "1+ acre lot",
+        "Open concept",
+        "Master retreat",
+        "Horse ready",
+        "RV parking",
+        "Mountain views"
+      ],
+      "images": [
+        "https://example.com/prop015_front.jpg",
+        "https://example.com/prop015_land.jpg",
+        "https://example.com/prop015_master.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-12",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-22",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP016",
+      "address": "2222 Market St #101",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Townhouse",
+      "style": "Contemporary",
+      "year_built": 2021,
+      "price": 465000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_feet": 1750,
+      "lot_size": "0.05 acres",
+      "description": "Modern townhouse in vibrant downtown location. Features include open living area, private balcony, attached garage, and walking distance to everything.",
+      "features": [
+        "Open living",
+        "Private balcony",
+        "Attached garage",
+        "Modern design",
+        "Walk to downtown",
+        "Low maintenance"
+      ],
+      "images": [
+        "https://example.com/prop016_front.jpg",
+        "https://example.com/prop016_living.jpg",
+        "https://example.com/prop016_balcony.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-13",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-23",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP017",
+      "address": "9999 Willow Creek Ct",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Farmhouse",
+      "year_built": 2022,
+      "price": 650000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_feet": 2900,
+      "lot_size": "0.3 acres",
+      "description": "Charming modern farmhouse with board-and-batten siding and covered porch. Features include shaker cabinetry, farmhouse sink, and spacious backyard.",
+      "features": [
+        "Modern farmhouse",
+        "Covered porch",
+        "Shaker cabinetry",
+        "Farmhouse sink",
+        "Open concept",
+        "Large lot"
+      ],
+      "images": [
+        "https://example.com/prop017_front.jpg",
+        "https://example.com/prop017_kitchen.jpg",
+        "https://example.com/prop017_porch.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-14",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP018",
+      "address": "3333 Canyon Ridge Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Contemporary",
+      "year_built": 2020,
+      "price": 825000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3400,
+      "lot_size": "0.38 acres",
+      "description": "Sleek contemporary home with clean lines and abundant natural light. Features include chef's kitchen, spa bathroom, and outdoor living with fire pit.",
+      "features": [
+        "Contemporary design",
+        "Chef's kitchen",
+        "Spa bathroom",
+        "Fire pit",
+        "Natural light",
+        "Smart home"
+      ],
+      "images": [
+        "https://example.com/prop018_front.jpg",
+        "https://example.com/prop018_kitchen.jpg",
+        "https://example.com/prop018_firepit.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-15",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-24",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP019",
+      "address": "6666 College Ave",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Duplex",
+      "style": "Traditional",
+      "year_built": 2015,
+      "price": 585000,
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "square_feet": 2800,
+      "lot_size": "0.14 acres",
+      "description": "Well-maintained duplex with two 3-bedroom units. Perfect for owner-occupant or investor. Both units feature updated kitchens and separate utilities.",
+      "features": [
+        "Two 3-bed units",
+        "Updated kitchens",
+        "Separate utilities",
+        "Good rental income",
+        "Close to UCR",
+        "Newer roof"
+      ],
+      "images": [
+        "https://example.com/prop019_front.jpg",
+        "https://example.com/prop019_unit1.jpg",
+        "https://example.com/prop019_unit2.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-16",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-25",
+        "time": "12:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "id": "PROP020",
+      "address": "7777 Sierra Hills Blvd",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Mediterranean",
+      "year_built": 2017,
+      "price": 615000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_feet": 2700,
+      "lot_size": "0.24 acres",
+      "description": "Beautiful Mediterranean home with tile roof and arched details. Features include courtyard entry, gourmet kitchen, and covered loggia overlooking pool.",
+      "features": [
+        "Courtyard entry",
+        "Tile roof",
+        "Gourmet kitchen",
+        "Covered loggia",
+        "Pool",
+        "Mediterranean style"
+      ],
+      "images": [
+        "https://example.com/prop020_front.jpg",
+        "https://example.com/prop020_courtyard.jpg",
+        "https://example.com/prop020_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-17",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP021",
+      "address": "4444 Riverside Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Single Family Home",
+      "style": "Bungalow",
+      "year_built": 1925,
+      "price": 435000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1600,
+      "lot_size": "0.12 acres",
+      "description": "Charming historic bungalow with period details lovingly preserved. Features include built-ins, original woodwork, and large covered porch. Updated systems.",
+      "features": [
+        "Historic charm",
+        "Original details",
+        "Built-ins",
+        "Covered porch",
+        "Updated systems",
+        "Walkable neighborhood"
+      ],
+      "images": [
+        "https://example.com/prop021_front.jpg",
+        "https://example.com/prop021_living.jpg",
+        "https://example.com/prop021_porch.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-18",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-26",
+        "time": "10:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": "PROP022",
+      "address": "8888 Hillside Ter",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Transitional",
+      "year_built": 2023,
+      "price": 715000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3000,
+      "lot_size": "0.28 acres",
+      "description": "Brand new transitional home with designer finishes throughout. Features include quartz counters, luxury vinyl plank, and covered California room.",
+      "features": [
+        "Brand new",
+        "Designer finishes",
+        "Quartz counters",
+        "LVP flooring",
+        "California room",
+        "Energy star rated"
+      ],
+      "images": [
+        "https://example.com/prop022_front.jpg",
+        "https://example.com/prop022_kitchen.jpg",
+        "https://example.com/prop022_caroom.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-19",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-27",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP023",
+      "address": "2222 Vista Point Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Contemporary",
+      "year_built": 2019,
+      "price": 945000,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "square_feet": 4000,
+      "lot_size": "0.45 acres",
+      "description": "Spectacular contemporary home with walls of glass capturing stunning views. Features include great room, gourmet kitchen, media room, and infinity edge pool.",
+      "features": [
+        "Panoramic views",
+        "Walls of glass",
+        "Great room",
+        "Media room",
+        "Infinity pool",
+        "Premium location"
+      ],
+      "images": [
+        "https://example.com/prop023_front.jpg",
+        "https://example.com/prop023_view.jpg",
+        "https://example.com/prop023_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-20",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-02-28",
+        "time": "2:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "id": "PROP024",
+      "address": "5555 University Ave #8",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Condo",
+      "style": "Modern",
+      "year_built": 2020,
+      "price": 365000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1200,
+      "lot_size": "N/A",
+      "description": "Stylish modern condo near UCR. Perfect for students, faculty, or investors. Features include stainless appliances, in-unit laundry, and pool/spa access.",
+      "features": [
+        "Near UCR",
+        "Stainless appliances",
+        "In-unit laundry",
+        "Pool/spa",
+        "Covered parking",
+        "Investment ready"
+      ],
+      "images": [
+        "https://example.com/prop024_front.jpg",
+        "https://example.com/prop024_living.jpg",
+        "https://example.com/prop024_pool.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-21",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP025",
+      "address": "9999 Country Ln",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Country Estate",
+      "year_built": 2016,
+      "price": 825000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "square_feet": 3600,
+      "lot_size": "2.5 acres",
+      "description": "Stunning country estate on 2.5 acres with mountain views. Features include wraparound porch, gourmet kitchen, barn, and room for horses. True country living!",
+      "features": [
+        "2.5 acres",
+        "Mountain views",
+        "Wraparound porch",
+        "Barn included",
+        "Horse property",
+        "Gourmet kitchen"
+      ],
+      "images": [
+        "https://example.com/prop025_front.jpg",
+        "https://example.com/prop025_land.jpg",
+        "https://example.com/prop025_barn.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-22",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-01",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP026",
+      "address": "3333 Lemon St #402",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Condo",
+      "style": "Industrial Loft",
+      "year_built": 2015,
+      "price": 450000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1500,
+      "lot_size": "N/A",
+      "description": "Unique industrial loft with exposed ductwork and concrete floors. Features include 14-foot ceilings, floor-to-ceiling windows, and urban lifestyle amenities.",
+      "features": [
+        "Industrial style",
+        "14-foot ceilings",
+        "Exposed ductwork",
+        "Concrete floors",
+        "Urban amenities",
+        "Walkable location"
+      ],
+      "images": [
+        "https://example.com/prop026_front.jpg",
+        "https://example.com/prop026_living.jpg",
+        "https://example.com/prop026_bedroom.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-23",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-02",
+        "time": "12:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "id": "PROP027",
+      "address": "1212 Woodside Ave",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Cottage",
+      "year_built": 2021,
+      "price": 565000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_feet": 2000,
+      "lot_size": "0.19 acres",
+      "description": "Adorable cottage-style home with charming curb appeal. Features include shiplap accents, vintage fixtures, and cozy outdoor living space. Move-in ready!",
+      "features": [
+        "Cottage style",
+        "Shiplap accents",
+        "Vintage fixtures",
+        "Outdoor living",
+        "Move-in ready",
+        "Fenced yard"
+      ],
+      "images": [
+        "https://example.com/prop027_front.jpg",
+        "https://example.com/prop027_kitchen.jpg",
+        "https://example.com/prop027_backyard.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-24",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP028",
+      "address": "5678 Summit Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Luxury Home",
+      "style": "Modern",
+      "year_built": 2024,
+      "price": 1650000,
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "square_feet": 5800,
+      "lot_size": "0.85 acres",
+      "description": "Architectural masterpiece with cutting-edge design and smart home technology. Features include elevator, dual master suites, temperature-controlled wine room, and resort backyard.",
+      "features": [
+        "Architectural design",
+        "Elevator",
+        "Dual masters",
+        "Wine room",
+        "Smart home",
+        "Resort backyard"
+      ],
+      "images": [
+        "https://example.com/prop028_front.jpg",
+        "https://example.com/prop028_interior.jpg",
+        "https://example.com/prop028_backyard.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-25",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-03",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP029",
+      "address": "7777 Central Ave",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Single Family Home",
+      "style": "Traditional",
+      "year_built": 2018,
+      "price": 535000,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "square_feet": 2300,
+      "lot_size": "0.17 acres",
+      "description": "Well-maintained traditional home in family-friendly neighborhood. Features include spacious kitchen, bonus room, and nicely landscaped backyard with patio.",
+      "features": [
+        "Family neighborhood",
+        "Spacious kitchen",
+        "Bonus room",
+        "Landscaped yard",
+        "Patio",
+        "Good schools"
+      ],
+      "images": [
+        "https://example.com/prop029_front.jpg",
+        "https://example.com/prop029_kitchen.jpg",
+        "https://example.com/prop029_backyard.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-02-26",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-04",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP030",
+      "address": "4321 Mountain View Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Southwest",
+      "year_built": 2020,
+      "price": 680000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 2950,
+      "lot_size": "0.32 acres",
+      "description": "Beautiful Southwest-style home with stucco exterior and tile roof. Features include great room, chef's kitchen, covered patio, and low-maintenance desert landscaping.",
+      "features": [
+        "Southwest style",
+        "Great room",
+        "Chef's kitchen",
+        "Covered patio",
+        "Desert landscaping",
+        "Energy efficient"
+      ],
+      "images": [
+        "https://example.com/prop030_front.jpg",
+        "https://example.com/prop030_kitchen.jpg",
+        "https://example.com/prop030_patio.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-02-27",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP031",
+      "address": "6789 Historic Ln",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Single Family Home",
+      "style": "Craftsman",
+      "year_built": 1910,
+      "price": 515000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1950,
+      "lot_size": "0.13 acres",
+      "description": "Classic Craftsman with original character and modern updates. Features include built-in bookcases, box beam ceilings, and charming front porch. Walk to everything!",
+      "features": [
+        "Original character",
+        "Built-in bookcases",
+        "Box beam ceilings",
+        "Front porch",
+        "Updated kitchen",
+        "Walk score 95"
+      ],
+      "images": [
+        "https://example.com/prop031_front.jpg",
+        "https://example.com/prop031_living.jpg",
+        "https://example.com/prop031_kitchen.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-02-28",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-05",
+        "time": "10:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": "PROP032",
+      "address": "2121 Cascade Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Colonial",
+      "year_built": 2019,
+      "price": 745000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "square_feet": 3400,
+      "lot_size": "0.33 acres",
+      "description": "Elegant Colonial with symmetrical facade and columned entry. Features include formal rooms, library, upstairs bonus, and professionally landscaped grounds.",
+      "features": [
+        "Colonial style",
+        "Formal rooms",
+        "Library",
+        "Upstairs bonus",
+        "Landscaped grounds",
+        "Cul-de-sac"
+      ],
+      "images": [
+        "https://example.com/prop032_front.jpg",
+        "https://example.com/prop032_library.jpg",
+        "https://example.com/prop032_grounds.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-01",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-06",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP033",
+      "address": "8888 Eagle Ridge",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Tuscan",
+      "year_built": 2022,
+      "price": 1125000,
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "square_feet": 4600,
+      "lot_size": "0.6 acres",
+      "description": "Spectacular Tuscan villa with imported tile and Old World charm. Features include wine cellar, chef's kitchen, loggia, and infinity pool with city views.",
+      "features": [
+        "Tuscan villa",
+        "Imported tile",
+        "Wine cellar",
+        "Loggia",
+        "Infinity pool",
+        "City views"
+      ],
+      "images": [
+        "https://example.com/prop033_front.jpg",
+        "https://example.com/prop033_cellar.jpg",
+        "https://example.com/prop033_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-02",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-07",
+        "time": "2:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "id": "PROP034",
+      "address": "4545 Pierce St #B",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Townhouse",
+      "style": "Modern",
+      "year_built": 2023,
+      "price": 448000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "square_feet": 1680,
+      "lot_size": "0.04 acres",
+      "description": "Brand new modern townhouse in convenient location. Features include open floor plan, quartz counters, luxury vinyl plank, and attached 2-car garage.",
+      "features": [
+        "Brand new",
+        "Open floor plan",
+        "Quartz counters",
+        "LVP flooring",
+        "2-car garage",
+        "Low HOA"
+      ],
+      "images": [
+        "https://example.com/prop034_front.jpg",
+        "https://example.com/prop034_kitchen.jpg",
+        "https://example.com/prop034_master.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-03-03",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP035",
+      "address": "3456 Sunset Ridge Way",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Prairie",
+      "year_built": 2021,
+      "price": 695000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3050,
+      "lot_size": "0.29 acres",
+      "description": "Stunning Prairie-style home with horizontal lines and natural materials. Features include great room, gourmet kitchen, and outdoor living with mountain views.",
+      "features": [
+        "Prairie style",
+        "Great room",
+        "Gourmet kitchen",
+        "Mountain views",
+        "Outdoor living",
+        "Natural materials"
+      ],
+      "images": [
+        "https://example.com/prop035_front.jpg",
+        "https://example.com/prop035_greatroom.jpg",
+        "https://example.com/prop035_outdoor.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-04",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-08",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP036",
+      "address": "7890 Commerce St #105",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Loft",
+      "style": "Converted Warehouse",
+      "year_built": 2014,
+      "price": 495000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1650,
+      "lot_size": "N/A",
+      "description": "Unique converted warehouse loft with soaring 18-foot ceilings and original brick. Features include industrial kitchen, mezzanine office, and private balcony.",
+      "features": [
+        "18-foot ceilings",
+        "Original brick",
+        "Industrial kitchen",
+        "Mezzanine office",
+        "Private balcony",
+        "Urban lifestyle"
+      ],
+      "images": [
+        "https://example.com/prop036_front.jpg",
+        "https://example.com/prop036_living.jpg",
+        "https://example.com/prop036_mezzanine.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-03-05",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-09",
+        "time": "12:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "id": "PROP037",
+      "address": "1357 Maple Grove Ct",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "French Country",
+      "year_built": 2018,
+      "price": 805000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3500,
+      "lot_size": "0.36 acres",
+      "description": "Charming French Country estate with stone and stucco exterior. Features include courtyard entry, gourmet kitchen, study, and pool with outdoor kitchen.",
+      "features": [
+        "French Country",
+        "Courtyard entry",
+        "Gourmet kitchen",
+        "Study",
+        "Pool",
+        "Outdoor kitchen"
+      ],
+      "images": [
+        "https://example.com/prop037_front.jpg",
+        "https://example.com/prop037_courtyard.jpg",
+        "https://example.com/prop037_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-06",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP038",
+      "address": "9876 Skyline Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Contemporary",
+      "year_built": 2023,
+      "price": 1285000,
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "square_feet": 5000,
+      "lot_size": "0.7 acres",
+      "description": "Breathtaking contemporary masterpiece with stunning architecture. Features include floating staircase, chef's kitchen, spa bathroom, and negative edge pool.",
+      "features": [
+        "Stunning architecture",
+        "Floating staircase",
+        "Chef's kitchen",
+        "Spa bathroom",
+        "Negative edge pool",
+        "Smart home"
+      ],
+      "images": [
+        "https://example.com/prop038_front.jpg",
+        "https://example.com/prop038_staircase.jpg",
+        "https://example.com/prop038_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-07",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-10",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP039",
+      "address": "6543 Blaine St",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Single Family Home",
+      "style": "Bungalow",
+      "year_built": 1935,
+      "price": 445000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1700,
+      "lot_size": "0.14 acres",
+      "description": "Charming vintage bungalow with loads of character. Features include arched doorways, original hardwood, built-ins, and updated kitchen and baths.",
+      "features": [
+        "Vintage character",
+        "Arched doorways",
+        "Original hardwood",
+        "Built-ins",
+        "Updated systems",
+        "Corner lot"
+      ],
+      "images": [
+        "https://example.com/prop039_front.jpg",
+        "https://example.com/prop039_living.jpg",
+        "https://example.com/prop039_kitchen.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-08",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-11",
+        "time": "10:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": "PROP040",
+      "address": "2468 Valley View Rd",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Modern Farmhouse",
+      "year_built": 2022,
+      "price": 755000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "square_feet": 3300,
+      "lot_size": "0.42 acres",
+      "description": "Beautiful modern farmhouse with board-and-batten siding and metal roof. Features include shiplap walls, barn doors, farmhouse sink, and covered patio.",
+      "features": [
+        "Modern farmhouse",
+        "Board-and-batten",
+        "Shiplap walls",
+        "Barn doors",
+        "Covered patio",
+        "Large lot"
+      ],
+      "images": [
+        "https://example.com/prop040_front.jpg",
+        "https://example.com/prop040_kitchen.jpg",
+        "https://example.com/prop040_patio.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-03-09",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP041",
+      "address": "8888 Arts District Pl",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Condo",
+      "style": "Live/Work Loft",
+      "year_built": 2017,
+      "price": 520000,
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "square_feet": 1850,
+      "lot_size": "N/A",
+      "description": "Versatile live/work loft in arts district. Features include 12-foot ceilings, polished concrete, flex space, and rooftop deck with city views.",
+      "features": [
+        "Live/work space",
+        "12-foot ceilings",
+        "Polished concrete",
+        "Flex space",
+        "Rooftop deck",
+        "City views"
+      ],
+      "images": [
+        "https://example.com/prop041_front.jpg",
+        "https://example.com/prop041_loft.jpg",
+        "https://example.com/prop041_rooftop.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-10",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-12",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP042",
+      "address": "3698 Pinehurst Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Cape Cod",
+      "year_built": 2020,
+      "price": 625000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_feet": 2650,
+      "lot_size": "0.25 acres",
+      "description": "Classic Cape Cod with dormers and shutters. Features include formal dining, family room with fireplace, and beautifully maintained yard with mature trees.",
+      "features": [
+        "Cape Cod style",
+        "Dormers",
+        "Fireplace",
+        "Formal dining",
+        "Mature trees",
+        "Fenced yard"
+      ],
+      "images": [
+        "https://example.com/prop042_front.jpg",
+        "https://example.com/prop042_familyroom.jpg",
+        "https://example.com/prop042_yard.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-11",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-13",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP043",
+      "address": "1234 Heights Blvd",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Italian Villa",
+      "year_built": 2021,
+      "price": 1550000,
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "square_feet": 6200,
+      "lot_size": "1 acre",
+      "description": "Exquisite Italian villa on one acre with breathtaking views. Features include grand entry, library, theater, gym, wine cellar, and resort-style pool.",
+      "features": [
+        "1-acre lot",
+        "Grand entry",
+        "Library",
+        "Theater & gym",
+        "Wine cellar",
+        "Resort pool"
+      ],
+      "images": [
+        "https://example.com/prop043_front.jpg",
+        "https://example.com/prop043_entry.jpg",
+        "https://example.com/prop043_pool.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-12",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-14",
+        "time": "2:00 PM - 5:00 PM"
+      }
+    },
+    {
+      "id": "PROP044",
+      "address": "9090 Iowa Ave #3",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Condo",
+      "style": "Garden Style",
+      "year_built": 2016,
+      "price": 355000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1150,
+      "lot_size": "N/A",
+      "description": "Ground-floor garden-style condo with private patio. Features include updated kitchen, walk-in closet, and resort-style amenities. Great investment!",
+      "features": [
+        "Ground floor",
+        "Private patio",
+        "Updated kitchen",
+        "Walk-in closet",
+        "Resort amenities",
+        "Investment property"
+      ],
+      "images": [
+        "https://example.com/prop044_front.jpg",
+        "https://example.com/prop044_living.jpg",
+        "https://example.com/prop044_patio.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-03-13",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP045",
+      "address": "5432 Rustic Ridge Ln",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Single Family Home",
+      "style": "Rustic Contemporary",
+      "year_built": 2023,
+      "price": 870000,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "square_feet": 3900,
+      "lot_size": "0.65 acres",
+      "description": "Stunning rustic contemporary with wood and stone accents. Features include vaulted great room, gourmet kitchen, spa master, and outdoor living with views.",
+      "features": [
+        "Rustic contemporary",
+        "Vaulted great room",
+        "Wood & stone",
+        "Spa master",
+        "Outdoor living",
+        "Mountain views"
+      ],
+      "images": [
+        "https://example.com/prop045_front.jpg",
+        "https://example.com/prop045_greatroom.jpg",
+        "https://example.com/prop045_outdoor.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-14",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-15",
+        "time": "11:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": "PROP046",
+      "address": "1515 Gallery Walk",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92501",
+      "area": "Downtown Riverside",
+      "property_type": "Penthouse",
+      "style": "Ultra Modern",
+      "year_built": 2023,
+      "price": 895000,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "square_feet": 2400,
+      "lot_size": "N/A",
+      "description": "Spectacular top-floor penthouse with 360-degree views. Features include floor-to-ceiling glass, chef's kitchen, spa baths, and private rooftop terrace.",
+      "features": [
+        "Penthouse",
+        "360-degree views",
+        "Floor-to-ceiling glass",
+        "Chef's kitchen",
+        "Private terrace",
+        "Luxury finishes"
+      ],
+      "images": [
+        "https://example.com/prop046_living.jpg",
+        "https://example.com/prop046_view.jpg",
+        "https://example.com/prop046_terrace.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-15",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-16",
+        "time": "12:00 PM - 3:00 PM"
+      }
+    },
+    {
+      "id": "PROP047",
+      "address": "7531 Greenbrier Way",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92508",
+      "area": "Woodcrest",
+      "property_type": "Single Family Home",
+      "style": "Tudor",
+      "year_built": 2019,
+      "price": 775000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "square_feet": 3250,
+      "lot_size": "0.31 acres",
+      "description": "Charming Tudor with half-timbering and brick facade. Features include arched doorways, leaded glass windows, library with built-ins, and English garden.",
+      "features": [
+        "Tudor style",
+        "Half-timbering",
+        "Leaded glass",
+        "Library",
+        "English garden",
+        "Brick facade"
+      ],
+      "images": [
+        "https://example.com/prop047_front.jpg",
+        "https://example.com/prop047_library.jpg",
+        "https://example.com/prop047_garden.jpg"
+      ],
+      "agent_id": "AGENT003",
+      "list_date": "2024-03-16",
+      "status": "Active",
+      "open_house": {
+        "scheduled": false,
+        "date": null,
+        "time": null
+      }
+    },
+    {
+      "id": "PROP048",
+      "address": "4200 Pinnacle View",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92507",
+      "area": "Canyon Crest",
+      "property_type": "Single Family Home",
+      "style": "Northwest Contemporary",
+      "year_built": 2024,
+      "price": 1375000,
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "square_feet": 5400,
+      "lot_size": "0.8 acres",
+      "description": "Stunning Northwest contemporary with natural materials and indoor-outdoor flow. Features include great room, chef's kitchen, wine cellar, and covered outdoor living.",
+      "features": [
+        "Northwest style",
+        "Natural materials",
+        "Great room",
+        "Wine cellar",
+        "Outdoor living",
+        "Premium views"
+      ],
+      "images": [
+        "https://example.com/prop048_front.jpg",
+        "https://example.com/prop048_greatroom.jpg",
+        "https://example.com/prop048_outdoor.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-17",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-18",
+        "time": "1:00 PM - 4:00 PM"
+      }
+    },
+    {
+      "id": "PROP049",
+      "address": "8642 Tyler St",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92506",
+      "area": "Arlington Heights",
+      "property_type": "Single Family Home",
+      "style": "California Bungalow",
+      "year_built": 1928,
+      "price": 485000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1800,
+      "lot_size": "0.15 acres",
+      "description": "Beautifully preserved California bungalow with original charm. Features include period fixtures, built-in hutch, coved ceilings, and updated kitchen/baths.",
+      "features": [
+        "Original charm",
+        "Period fixtures",
+        "Built-in hutch",
+        "Coved ceilings",
+        "Updated systems",
+        "Vintage details"
+      ],
+      "images": [
+        "https://example.com/prop049_front.jpg",
+        "https://example.com/prop049_living.jpg",
+        "https://example.com/prop049_dining.jpg"
+      ],
+      "agent_id": "AGENT001",
+      "list_date": "2024-03-18",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-19",
+        "time": "10:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": "PROP050",
+      "address": "9753 Equestrian Estates Dr",
+      "city": "Riverside",
+      "state": "CA",
+      "zip_code": "92505",
+      "area": "La Sierra",
+      "property_type": "Equestrian Estate",
+      "style": "Ranch Estate",
+      "year_built": 2020,
+      "price": 1850000,
+      "bedrooms": 6,
+      "bathrooms": 5.5,
+      "square_feet": 6800,
+      "lot_size": "5 acres",
+      "description": "Magnificent equestrian estate on 5 pristine acres. Features include luxury main house, 6-stall barn, arena, guest house, pool, and panoramic mountain views.",
+      "features": [
+        "5-acre estate",
+        "6-stall barn",
+        "Riding arena",
+        "Guest house",
+        "Pool & spa",
+        "Mountain views"
+      ],
+      "images": [
+        "https://example.com/prop050_main.jpg",
+        "https://example.com/prop050_barn.jpg",
+        "https://example.com/prop050_views.jpg"
+      ],
+      "agent_id": "AGENT002",
+      "list_date": "2024-03-19",
+      "status": "Active",
+      "open_house": {
+        "scheduled": true,
+        "date": "2024-03-20",
+        "time": "1:00 PM - 4:00 PM"
+      }
     }
   ],
-  "total_listings": 5,
+  "total_listings": 50,
   "price_range": {
-    "min": 395000,
-    "max": 1250000,
-    "average": 679000
+    "min": 355000,
+    "max": 1850000,
+    "average": 737360
   }
 } 
