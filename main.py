@@ -77,19 +77,16 @@ async def main():
     logger.info(f"Loaded {len(data_manager.get_recent_sales())} recent sales")
     logger.info(f"Loaded {len(data_manager.get_all_areas())} areas")
 
-    # Get Railway Vars
-    import os
     # Determine transport mode from command line arguments
     transport = "stdio"  # Default to stdio for Claude Desktop compatibility
     if len(sys.argv) > 1:
         transport = sys.argv[1].lower()
-
+        
     if transport == "sse":
-        host = os.environ.get("HOST", "0.0.0.0")
-        port = int(os.environ.get("PORT", "8000"))
-
-        logger.info(f"Running with SSE transport on http://{host}:{port}/sse")
-        await mcp.run_sse_async(host=host, port=port)
+        # Run with SSE transport for remote/web access
+        logger.info("Running with SSE transport on http://127.0.0.1:8000/sse")
+        await mcp.run_sse_async()
+        
     else:
         # Run with STDIO transport for Claude Desktop
         logger.info("Running with STDIO transport")
