@@ -1,0 +1,46 @@
+from mcp.server.fastmcp import FastMCP
+
+from prompts import register_all_prompts
+from resources import (
+    register_agent_resources,
+    register_client_resources,
+    register_location_resources,
+    register_market_resources,
+    register_property_resources,
+)
+from tools.agent_tools import register_agent_tools
+from tools.area_tools import register_area_tools
+from tools.client_tools import register_client_tools
+from tools.market_tools import register_market_tools
+from tools.property_tools import register_property_tools
+from tools.system_tools import register_system_tools
+
+mcp = FastMCP("Real Estate MCP Server")
+
+
+def register_all_components():
+    register_property_tools(mcp)
+    register_agent_tools(mcp)
+    register_market_tools(mcp)
+    register_client_tools(mcp)
+    register_area_tools(mcp)
+    register_system_tools(mcp)
+
+    register_property_resources(mcp)
+    register_agent_resources(mcp)
+    register_market_resources(mcp)
+    register_client_resources(mcp)
+    register_location_resources(mcp)
+
+    register_all_prompts(mcp)
+
+
+register_all_components()
+
+# mcp 1.16.0 typically exposes an ASGI app; one of these will exist
+app = getattr(mcp, "app", None) or getattr(mcp, "asgi_app", None) or getattr(mcp, "_app", None)
+
+if app is None:
+    raise RuntimeError(
+        "Could not find an ASGI app on FastMCP (expected mcp.app / mcp.asgi_app)."
+    )
