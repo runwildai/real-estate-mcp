@@ -85,7 +85,7 @@ async def main():
     if transport == "sse":
         # Run with SSE transport for remote/web access
         logger.info("Running with SSE transport on http://127.0.0.1:8000/sse")
-        await mcp.run_sse_async(port: int = 8000, host: str = "0.0.0.0")
+        await mcp.run_sse_async()
         
     else:
         # Run with STDIO transport for Claude Desktop
